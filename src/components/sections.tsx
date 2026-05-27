@@ -108,7 +108,8 @@ export function AboutSection() {
         </p>
         <p>
           Akademisches Fundament: <strong className="text-foreground">Bachelor IT</strong> (Esfahan) und{" "}
-          <strong className="text-foreground">Master Information Technology</strong> (Teheran). Neben klassischer
+          <strong className="text-foreground">Master Information Technology</strong> (Teheran) sowie{" "}
+  <strong className="text-foreground">Technische Hochschule Brandenburg</strong>. Neben klassischer
           Administration bringe ich Know-how in KI-Tools, Webentwicklung und digitalem Marketing mit.
         </p>
         <p>
