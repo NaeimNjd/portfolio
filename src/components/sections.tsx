@@ -107,11 +107,11 @@ export function AboutSection() {
           Mein Weg führte mich vom Iran über Brandenburg bis nach Berlin.
         </p>
         <p>
-          Akademisches Fundament: <strong className="text-foreground">Bachelor IT</strong> (Esfahan) und{" "}
-          <strong className="text-foreground">Master Information Technology</strong> (Teheran) sowie{" "}
-  <strong className="text-foreground">Technische Hochschule Brandenburg</strong>. Neben klassischer
-          Administration bringe ich Know-how in KI-Tools, Webentwicklung und digitalem Marketing mit.
-        </p>
+  Akademisches Fundament: <strong className="text-foreground">Bachelor IT</strong> (Esfahan) und{" "}
+  <strong className="text-foreground">Master Information Technology</strong> (Teheran). Zusätzlich
+  habe ich an der <strong className="text-foreground">Technischen Hochschule Brandenburg</strong> studiert.
+  Neben klassischer Administration bringe ich Know-how in KI-Tools, Webentwicklung und digitalem Marketing mit.
+</p>
         <p>
           Mein Fokus: robuste, sichere und skalierbare Systeme — administriert mit Sorgfalt, automatisiert mit Python &amp; Bash,
           gesichert mit pfSense und Fortinet.
